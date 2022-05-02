@@ -7,7 +7,6 @@ Documenta los siguientes pasos:
 
 **2. Crea un repositorio local y avanza en la rama "master" añadiendo un fichero "index.html" con la estructura básica html. El body estará vacío**
 
-Perdi la captura así que tuve que hacer una captura del history
 ![?](imagenes/imagen2.PNG)
 
 
@@ -34,30 +33,37 @@ Al hacer el commit sale tambien que he ido añadiendo imagenes ya que estoy docu
 
 **7. Haz un merge a rama-1. Intentas fusionar ambas ramas. Aparecerá un conflicto porque ambos commits trabajan en la misma porción <body></body> de un mismo archivo index.html. Git no será capaz de fusionarlas directamente.**
 
+![?](imagenes/imagen7.PNG)
 
 
 **8. El editor VS Code reconoce los conflictos de fusión. Las diferencias se resaltan y hay acciones en línea para aceptar los cambios. Deja un único párrafo con tu nombre de pila y apellido.**
 
+![?](imagenes/imagen8.PNG)
 
 
 **9. Una vez que se resuelto el conflicto confirma el archivo en conflicto para que pueda realizar esos cambios**
 
+![?](imagenes/imagen9.PNG)
 
 
 **10. Muestra de nuevo el estado del repositorio de forma gráfica y resumida**
 
+![?](imagenes/imagen10.PNG)
 
 
 **11. Vuelve a la rama master y realiza otro merge. Es una fusión fast-forward. Los dos commits a fusionar tienen relación de ancestro. Entonces el merge no produce un commit nuevo, sencillamente avanza la rama, "avance rápido"**
 
+![?](imagenes/imagen11.PNG)
 
 
 **12. Visualiza las ramas que han sido fusionadas con la rama master**
 
+![?](imagenes/imagen12.PNG)
 
 
 **13. Elimina las ramas correctamente fusionadas (sin asterisco) para quedarte SOLO con la rama master.**
 
+![?](imagenes/imagen13.PNG)
 
 
 **14. Realiza una copia a este repositorio remoto**
