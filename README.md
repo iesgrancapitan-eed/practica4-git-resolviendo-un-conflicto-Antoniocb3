@@ -75,3 +75,5 @@ Al hacer el commit sale tambien que he ido añadiendo imagenes ya que estoy docu
 
 
 **16. En GitHub entra en Insights/network y visualiza el gráfico del repositorio con los merge y cinco commits**
+
+![?](imagenes/imagen16.PNG)
